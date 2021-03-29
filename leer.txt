@@ -1,0 +1,5 @@
+.devcontainer ela carpeta de la configuracion de doker
+micro carpera de las apis de microservisios
+src programacion general
+templates las vistas tepleit
+librerias son la libreris que se estan usando
